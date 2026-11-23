@@ -11,7 +11,7 @@
   --rec-type: block;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) { 
   :root {
     --main-text-color: #f1b2ce;
     --bg-color: #000028;
